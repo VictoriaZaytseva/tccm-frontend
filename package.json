@@ -30,6 +30,7 @@
     "watchify": "^3.11.0"
   },
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "moment-range": "^4.0.1"
   }
 }
